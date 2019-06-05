@@ -124,9 +124,9 @@ header {
 }
 
 .uno {
-    width: 350px;
+    width: 300px;
     background-color: #b39ddb;
-    height: 650px;
+    height: 700px;
     overflow: hidden;
     border: 4px solid #f3e5f5;
     float: left;
@@ -135,6 +135,7 @@ header {
     font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
       "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     color: #000;
+    font-size: 17px;
 }
 .parrafo {
   color: #263238;
@@ -142,9 +143,9 @@ header {
 }
 
 .dos {
-  width: 500px;
+  width: 450px;
   background-color: #b39ddb;
-  height: 650px;
+  height: 700px;
   overflow: hidden;
   border: 4px solid #f3e5f5;
   float: left;
@@ -153,21 +154,7 @@ header {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   color: #000;
-}
-
-.tres {
-  margin-top: 100px;
-  width: auto;
-  background-color: #b39ddb;
-  height: auto;
-  overflow: hidden;
-  border: 4px solid #f3e5f5;
-  float: left;
-  padding: 8px;
-  text-align: center;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  color: #000;
+  margin-left: 90px; 
 }
 
 .fuente-emujeres {
